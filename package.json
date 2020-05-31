@@ -22,7 +22,7 @@
       "version-discrepancy/*",
       "redux-reducer-injection/*",
       "multi-threaded-ssr/*",
-      "proprietary-tools/*",
+      "proprietary-tools/packages/*",
       "advanced-api/dynamic-remotes/*",
       "advanced-api/automatic-vendor-sharing/*"
     ],
