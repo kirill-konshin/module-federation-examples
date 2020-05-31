@@ -21,6 +21,7 @@
       "nested/*",
       "version-discrepancy/*",
       "redux-reducer-injection/*",
+      "milti-threaded-ssr/*",
       "advanced-api/dynamic-remotes/*",
       "advanced-api/automatic-vendor-sharing/*"
     ],
